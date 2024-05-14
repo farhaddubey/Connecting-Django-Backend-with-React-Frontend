@@ -1,0 +1,6 @@
+venv/
+/venv
+venv
+reactfrontend/node_modules
+reactfrontend/node_modules/
+/reactfrontend/node_modules/
